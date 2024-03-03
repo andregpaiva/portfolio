@@ -1,0 +1,76 @@
+.bannertopo {
+    background: #0176FF;
+    background: linear-gradient(135deg, #0176FF, #8018D8);
+    box-shadow: 0px 25.6px 57.6px rgb(0 0 0 / 14%), 0px 0px 16.4px rgb(0 0 0 / 12%);
+    border-style: 1px solid;
+    border-radius: 25px 25px 0 0;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    margin-top: 3.5rem;
+}
+
+.espacadorfooter{
+    padding-top: 1rem;
+}
+
+.bannerfooter {
+    background: linear-gradient(135deg, #0176FF, #8018D8);
+    border-radius: 0 0 25px 25px;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    margin-top: 3.5rem;
+}
+
+.fotoperfil {
+    border-radius: 50%;
+    box-shadow: 0px 25.6px 57.6px rgb(0 0 0 / 14%), 0px 0px 16.4px rgb(0 0 0 / 12%);
+}
+
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 75px;
+    
+  }
+  
+.noto-sans-400 {
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+.noto-sans-100 {
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+  
+.text-justify{
+    text-align: justify;
+}
+
+body{
+    background-color: black;
+}
+
+.corposite{
+    background-color: whitesmoke;
+    
+}
+
+.card{
+    --bs-card-border-radius: 0;
+}
+
+.dataexperiencia{
+    padding-top: 2.5rem;
+}
+
+.borda{
+    box-shadow: 0px 25.6px 57.6px rgb(0 0 0 / 14%), 0px 0px 16.4px rgb(0 0 0 / 12%);
+}
